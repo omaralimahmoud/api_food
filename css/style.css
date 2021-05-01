@@ -1,0 +1,60 @@
+h3
+{
+  background-color: #0000ff;
+    padding-left:10 px;
+    padding-right: 10px; ;
+    border-radius: 30px;
+
+}
+*
+{
+  box-sizing: border-box;
+}
+
+
+
+body
+{
+  background-image: url(../images/1.png);
+  background-size:cover ;
+  background-position:center center ;
+  height: 100vh;
+}
+
+.spcia
+{
+  width: 105px;
+  
+}
+.header
+{
+  background-image: url(../images/mainBg.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  
+  
+}
+
+#btnSearch
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px ;
+  border:2px solid black;
+  cursor: pointer;
+}
+.miss
+{
+  background-color: red;
+  
+  
+  
+  
+
+
+}
+.lorem
+{
+  width: 40%;
+}
